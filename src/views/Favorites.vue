@@ -13,7 +13,7 @@
 	          <v-icon @click="removeFromFavorites(dog)">delete</v-icon>
 	        </v-list-tile-action>
 	      </v-list-tile>
-				<v-btn to="/form">Adopt</v-btn>
+				<v-btn to="/form">Adotar</v-btn>
 	    </div>
 	  </v-list>
 	</div>
